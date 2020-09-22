@@ -1,0 +1,10 @@
+[
+  {
+    "Key": "MandatoryData",
+    "Value": "Dados obrigatorios"
+  },
+  {
+    "Key": "UserUnder",
+    "Value": "Usuario {0} com menos de 18 anos!"
+  }
+]

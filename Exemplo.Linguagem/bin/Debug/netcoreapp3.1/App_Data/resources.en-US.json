@@ -1,0 +1,10 @@
+[
+  {
+    "Key": "MandatoryData",
+    "Value": "Mandatory data!"
+  },
+  {
+    "Key": "UserUnder",
+    "Value": "User {0} under 18!"
+  }
+]
